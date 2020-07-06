@@ -1,11 +1,8 @@
 # Monty Hall Problem
 
-## Game menu
-![menu](/src/assets/imgs/menu.png)
-
-## Game screen
-![game](/src/assets/imgs/game.png)
-
+## Game
+![Game](/src/assets/imgs/monty-hall-problem.gif)
+ 
 ## Project setup
 ```
 npm install
